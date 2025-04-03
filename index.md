@@ -7,7 +7,7 @@ hero:
   text: "A Document For XinXi (Minecraft)"
   tagline: Yhxi Server
   image: 
-    src: assets/images/herta.png
+    src: ./herta.png
   actions:
     - theme: brand
       text: 快速开始
