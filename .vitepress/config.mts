@@ -4,8 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-CN',
   title: "昕夕亭 - 文档",
-  description: "A Document For XinXi (Minecraft)",
+  description: "昕夕亭帮助文档",
   head: [['link', { rel: 'icon', href: './herta.png' }]],
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://docs.mc.qiusyan.top'
+  },
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -56,7 +61,7 @@ export default defineConfig({
     lastUpdated: {
       text: '最后更新于',
       formatOptions: {
-        dateStyle: 'full',
+        dateStyle: 'short',
         timeStyle: 'medium'
       }
     }

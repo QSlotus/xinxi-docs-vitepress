@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "昕夕亭 - 文档"
-  text: "A Document For XinXi (Minecraft)"
-  tagline: Yhxi Server
+  text: "Documentation For XinXi (Minecraft)"
+  tagline: Yhxi 💖
   image: 
     src: ./herta.png
   actions:
