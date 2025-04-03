@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: "昕夕亭 - 文档",
   description: "A Document For XinXi (Minecraft)",
-  head: [['link', { rel: 'icon', href: 'assets/images/icon.png' }]],
+  head: [['link', { rel: 'icon', href: 'assets/images/herta.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
