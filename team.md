@@ -23,7 +23,6 @@ const coreMembers = [
   }
 ]
 
-// 赞助者列表
 const elders = [
   {
     avatar: 'avatar/2.jpg',
@@ -51,7 +50,13 @@ const elders = [
     // links: [
     //   { icon: 'bilibili', link: 'https://space.bilibili.com/401682702' }
     // ]
-  }
+  },
+  {
+    avatar: 'avatar/7.jpg',
+    name: 'even',
+    title: '陨落的老祖 *e',
+    desc: '纯净生存糕手<br> 建筑大师 黑厂老板'
+  },
 ]
 
 // 朋友列表
@@ -67,12 +72,6 @@ const friends = [
     name: '君子清',
     title: '蓝毛控 方舟糕手',
     desc: '潜水员 比服主还能潜'
-  },
-  {
-    avatar: 'avatar/7.jpg',
-    name: 'even',
-    title: '无需多言 *e',
-    desc: '纯净生存糕手 建筑大师<br>黑厂老板'
   },
   {
     avatar: 'avatar/8.jpg',
