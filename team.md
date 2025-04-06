@@ -158,7 +158,7 @@ const friends = [
   {
     avatar: 'avatar/21.jpg',
     name: '沙沙',
-    title: '沪✌',
+    title: '沪✌ 老二次元',
     desc: '随机上线'
   },
   {
