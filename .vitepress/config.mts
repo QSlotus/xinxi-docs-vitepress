@@ -34,6 +34,7 @@ export default defineConfig({
       {
         text: '其他',
         items: [
+          { text: '专业团队', link: '/team' },
           { text: '加入我们', link: '/join-us' }
         ]
       }

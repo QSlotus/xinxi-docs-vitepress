@@ -12,6 +12,9 @@ hero:
     - theme: brand
       text: 快速开始
       link: /simple
+    - theme: brand
+      text: 专业团队
+      link: /team
     - theme: alt
       text: 加入我们
       link: /join-us

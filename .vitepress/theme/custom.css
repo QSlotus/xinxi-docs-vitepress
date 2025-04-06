@@ -19,3 +19,6 @@ s {
  s:not(:hover), s:not(:hover) * {
     border: none!important
 }
+abbr {
+    text-decoration: none;
+  }
