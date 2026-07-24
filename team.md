@@ -180,12 +180,12 @@ const unforgettable = [
     name: '黑白不想开学',
     title: '黑白/小死神厨 车万人',
     desc: '生电大佬 假人大军首领'
-  },
-  {
-    avatar: 'avatar/0.jpg',
-    name: '昕',
-    title: '万物之始',
-    desc: '还是想见你'
+  // },
+  //{
+  //  avatar: 'avatar/0.jpg',
+  //  name: '昕',
+  //  title: '万物之始',
+  //  desc: '还是想见你'
   }
 ]
 </script>
